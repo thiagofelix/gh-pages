@@ -35,7 +35,7 @@
     "wrench": "1.5.8"
   },
   "devDependencies": {
-    "chai": "^3.4.1",
+    "chai": "^3.5.0",
     "eslint": "^1.10.3",
     "eslint-config-tschaub": "^2.0.0",
     "mocha": "^2.3.4"
